@@ -1,5 +1,5 @@
 {
-	"name": "Rishi Mishra",
+	"name":  "fcc-learn-npm-package-json",
 	"author": "Rishi Mishra",
 	"dependencies": {
 		"express": "^4.14.0"
